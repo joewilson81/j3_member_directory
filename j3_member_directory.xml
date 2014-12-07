@@ -21,9 +21,9 @@
         to copy FROM in the package to install therefore files copied
         in this section are copied from /site/ in the package -->
     <files folder="site">
+        <filename>controller.php</filename>
         <filename>index.html</filename>
         <filename>j3_member_directory.php</filename>
-        <filename>controller.php</filename>
         <folder>models</folder>
         <folder>views</folder>
     </files>
@@ -37,6 +37,7 @@
             in this section are copied from /admin/ in the package -->
         <files folder="admin">
             <!-- Admin Main File Copy Section -->
+            <filename>controller.php</filename>
             <filename>index.html</filename>
             <filename>j3_member_directory.php</filename>
             <!-- SQL files section -->
