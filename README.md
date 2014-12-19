@@ -1,4 +1,4 @@
-j3_member_directory
+member_directory
 ===================
 
-Joomla 3 Membership Directory
+Joomla 3.x Membership Directory

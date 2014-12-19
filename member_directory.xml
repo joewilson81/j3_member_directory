@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="component" version="3.2" method="upgrade">
  
-    <name>J3 Member Directory</name>
+    <name>Member Directory</name>
     <creationDate>December 2014</creationDate>
     <author>Joe Wilson</author>
     <authorEmail>joe@augustknight.com</authorEmail>
     <authorUrl>http://www.augustknight.com</authorUrl>
     <license>The MIT License (MIT)</license>
     <version>0.0.1</version>
-    <description>A Joomla3 member directory.</description>
+    <description>A Joomla 3.x member directory.</description>
  
     <update> <!-- Runs on update; New since J2.5 -->
         <schemas>
@@ -23,7 +23,7 @@
     <files folder="site">
         <filename>controller.php</filename>
         <filename>index.html</filename>
-        <filename>j3_member_directory.php</filename>
+        <filename>member_directory.php</filename>
         <folder>models</folder>
         <folder>views</folder>
     </files>
@@ -39,7 +39,7 @@
             <!-- Admin Main File Copy Section -->
             <filename>controller.php</filename>
             <filename>index.html</filename>
-            <filename>j3_member_directory.php</filename>
+            <filename>member_directory.php</filename>
             <!-- SQL files section -->
             <folder>sql</folder>
         </files>

@@ -1,7 +1,7 @@
 <?php
 /**
 * @package Joomla.Administrator
-* @subpackage com_j3_member_directory
+* @subpackage com_member_directory
 *
 * @license The MIT License (MIT); see LICENSE
 */

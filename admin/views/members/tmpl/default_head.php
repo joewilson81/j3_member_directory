@@ -7,9 +7,9 @@ defined('_JEXEC') or die('Restricted Access');
         <?php echo JHtml::_('grid.checkall'); ?>
     </th>
     <th>
-        <?php echo JText::_('COM_J3_MEMBER_DIRECTORY_MEMBER_NAME'); ?>
+        <?php echo JText::_('com_member_directory_MEMBER_NAME'); ?>
     </th>
     <th width="5">
-        <?php echo JText::_('COM_J3_MEMBER_DIRECTORY_MEMBER_ID'); ?>
+        <?php echo JText::_('com_member_directory_MEMBER_ID'); ?>
     </th>
 </tr>
